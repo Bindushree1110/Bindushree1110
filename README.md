@@ -1,5 +1,5 @@
 
-HI,I Am Bindu
+Hi,I Am Bindu
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
